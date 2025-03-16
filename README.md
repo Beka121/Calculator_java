@@ -52,6 +52,7 @@ I have written comments and kept the code simple and understandable. If you have
 3. Complex expressions with multiple nested parentheses might cause errors in some edge cases.
 4. I also specifically added instructions to avoid such issues.
 5. I had to spend more time than I originally planned—I didn't expect my knowledge to be insufficient.
+6. Evulate file don't need it i tried to create a new class and use it in the main, but in my code it will doesn't work for some isusses. 
 
 ---
 
